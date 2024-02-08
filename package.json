@@ -1,0 +1,33 @@
+{
+  "name": "ts-synth",
+  "version": "1.0.0",
+  "description": "A browser-based software synthesizer utilizing the Web Audio API, written in TypeScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/j-sherrick/ts-synth.git"
+  },
+  "keywords": [
+    "typescript",
+    "software-synthesizer",
+    "javascript",
+    "ts-node",
+    "widgets",
+    "html5",
+    "css3",
+    "html-css-typescript"
+  ],
+  "author": "Jason Sherrick",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/j-sherrick/ts-synth/issues"
+  },
+  "homepage": "https://github.com/j-sherrick/ts-synth#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
